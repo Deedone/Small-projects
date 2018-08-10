@@ -1,0 +1,1 @@
+./Release/main.cpp.o ./Release/Rect.cpp.o ./Release/Point.cpp.o ./Release/Tree.cpp.o
