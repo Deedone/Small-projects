@@ -10,6 +10,7 @@ Collection of projects that seems interesting but don't deserve their own repo
 * [Genetic algorithm that tries to solve salesman problem(Python 3, pygame)](./Salesman)
 * [Simple 3D wireframe renderer(Python 3, pygame)](./3D) 
 * [Quadtree implementation(C++, SFML)](./Quadtree)
+* [Reaction diffusion algorythm](./Reaction-diffusion)
 * [Maze generator(Python 3, pygame)](./Maze)
 * [Cool recursive tree(Python 3, pygame)](./Rec-Tree)
 * [Simple pong(Python 3, pygame)](./Pong)
